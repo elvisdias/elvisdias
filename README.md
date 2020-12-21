@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working for a statal as a Data Analyst; 
+- 🌱 I’m currently working for a state-owned company as a Data Analyst/Engineer; 
 - :mortar_board: Finishing a post graduation on data analysis; 
 - :bulb: Also learning javascript (on the flow) to showcase personal projects on my personal website;
 - :telescope: Looking forward to being a good professional workin with data analysis and engineering;
